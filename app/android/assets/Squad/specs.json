@@ -1,0 +1,7 @@
+﻿[
+  {"id":"pic", "image":"ic_baseline_person_48"},
+  {"id":"position", "image":"ic_sports_football_pitch" },
+  {"id":"age", "image":"ic_baseline_cake_48"},
+  {"id":"apps", "image":"ic_sports_appearance"},
+  {"id":"goals", "image":"ic_sports_goal"}
+]
