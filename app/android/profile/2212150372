@@ -1,0 +1,251 @@
+{
+  "graphql": {
+    "user": {
+      "username": "tractorclub1970",
+      "fullName": "Tractor F.C.",
+      "profilePicUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1zZWE1LTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE5LzUzNDMyMDEyN18xODQ3OTQ2Nzg2NzA3ODM3M18xNDA3MTIzNjI3MzQzNDY5MTEyX24uanBnP3N0cD1kc3QtanBnX3MzMjB4MzIwX3R0NiZlZmc9ZXlKMlpXNWpiMlJsWDNSaFp5STZJbkJ5YjJacGJHVmZjR2xqTG1ScVlXNW5ieTR4TURnd0xtTXlJbjAmX25jX2h0PXNjb250ZW50LXNlYTUtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19jYXQ9MTA1Jl9uY19vYz1RNmNaMlFGekwyWldmNGJEdGF0SDVqb0xTSDJwX1lIX01raTRYdUt1Q1JsM3RTYWVGaHlFUnBYdjBZbVE5QzZjMEUtQmtpMCZfbmNfb2hjPTJQYVh6YU5wRDRRUTdrTnZ3R1p0SG1uJl9uY19naWQ9Smc2eXpDN2YtZ0l3Wmxvdl9rT3laUSZlZG09QU9RMWMwd0JBQUFBJmNjYj03LTUmb2g9MDBfQWZzY3BzSVp2eGZxMWpuSENuWXlibTRwRS1LSU82NmhLdWpkNFdpdGVwN1daZyZvZT02OTg5OTRENiZfbmNfc2lkPThiMzU0Ng==",
+      "edgeFollowedBy": {
+        "count": 2306635
+      },
+      "edgeFollow": {
+        "count": 49
+      },
+      "edgeOwnerToTimelineMedia": {
+        "edges": [
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MTA4Mjc3OThfMTg1MDU1Njk4MjMwNzgzNzNfODk4ODc5NjQ3MDgzNDkyMTYxOF9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTExJmlnX2NhY2hlX2tleT1Nemd3TlRVek5qSTFOelE0T1RZNU1qQXhOdyUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFME5EQjRNVGM1TlM1elpISXVRek1pZlElM0QlM0QmX25jX29oYz01SkEtNHRIaXc3SVE3a052d0Y2b1F4aiZfbmNfb2M9QWRtTTNyNGpDYVg1cGdwRTlxa2ZPbzNFMWV0czlUbmhhelJZTlZBdEotTGh1OTZQNEpLZVd6TUk2dmx2WlhjLVBkQSZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnRRdHRUeDJFeTNMOFl1bGkwY1JWVzZVMkJ2Mk8tcVBuY3BOMkl0VGg4N093Jm9lPTY5ODk4QjBG",
+              "isVideo": true,
+              "takenAtTimestamp": 1767862697,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🚜تمرینات تراکتور در مسیر آماده‌سازی برای مصاف با شمس آذر قزوین ادامه دارد"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS43MTg3OC0xNS82MTAyOTEwODhfMzEwNDE4NzM1MzEyMDI3MV80MTI2MzMwNzQ4NTAxOTc5MDcwX24uanBnP3N0cD1kc3QtanBnX2UxNV90dDYmX25jX2NhdD0xMTEmaWdfY2FjaGVfa2V5PU16Z3dORFk1TURnek5qQXlOalF6TnpFM01nJTNEJTNELjMtY2NiNy01JmNjYj03LTUmX25jX3NpZD01OGNkYWQmZWZnPWV5SjJaVzVqYjJSbFgzUmhaeUk2SW5od2FXUnpMalkwTUhneE1UTTJMbk5rY2k1RE15SjkmX25jX29oYz1nb3ZpT1ZiRGZzOFE3a052d0dHSHdqbSZfbmNfb2M9QWRtUmNFaDhBa3JITGl4QnlDWjRzemh6dHFRaDBSYVY3by1qMHVFOTFCUnZNa0xBQk5IVXlHWFBUc29tMGN1cW5SYyZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnY5OUxYRUR6TjFENjUxNkxCM2U5UXVycmJKTzZwb2tqVkRuUVhudEpFdzRBJm9lPTY5ODk4NENE",
+              "isVideo": true,
+              "takenAtTimestamp": 1767762264,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "𝗦𝗧𝗥𝗘𝗡𝗚𝗧𝗛\n𝗜𝗦 𝗕𝗨𝗜𝗟𝗧 𝗛𝗘𝗥𝗘\n💪🔥"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MTEyNDA3NzFfMTg1MDUyODg3NjgwNzgzNzNfMzQ4NzE1MjI5MDQzMjkyODczMV9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTEwJmlnX2NhY2hlX2tleT1Nemd3TkRFd056WTRPREkzTmpJNE5EVXlPUSUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFME5EQjRNVGM1T1M1elpISXVRek1pZlElM0QlM0QmX25jX29oYz15LXpSQjNSbkhpVVE3a052d0d3a015OCZfbmNfb2M9QWRsYVNIREwxMkg3Z2NuQWkxRWdzXzA2Vk54VG1TNHJlaGZWM0lzLTJ1Yzh2STRFdFh5bjd1TzFFM0doV2RTcXd2TSZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnU3dWpXNEZjelh4RER4Y0x5ZzBCdTFLZFpVdUxGci1NWm9ob2ViQzV1enJBJm9lPTY5ODk5NDlD",
+              "isVideo": true,
+              "takenAtTimestamp": 1767692400,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": ".\nآغاز دور جدید تمرینات تراکتور\nسه‌شنبه ۱۶ دی \n#tractor"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MDgwNzM1NjVfMTg1MDQxNjcwNDQwNzgzNzNfMzk4NDYxNTA4MDEwNTc0ODY1OF9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTAxJmlnX2NhY2hlX2tleT1NemM1T1RBNE1ESXhPVEF6TURjME56QTJPUSUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFME5EQjRNVGM1TVM1elpISXVRek1pZlElM0QlM0QmX25jX29oYz1kY1laNDFzbHNlVVE3a052d0doUnpGZSZfbmNfb2M9QWRsZjRnMkl3cS1ZMFM1dm1aaW5fRHIyYUlmV09YTkRlc01Gb1ZuZ3pDd1cyVWR6VTlWbkpGZm4xbWtheEtlVUpZTSZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnM5bjZMVWpIbXlwZGpnUktSOTZueXprdDZ1c01taDNBNEd5Yl85YXJSb3BnJm9lPTY5ODk4QzdC",
+              "isVideo": true,
+              "takenAtTimestamp": 1767093079,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "📸🚜🚩"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MDk0OTA0MjRfMTg1MDQxNTk1MDIwNzgzNzNfMTkwNjUxMzY0OTY4MjgyMDUyM19uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTEwJmlnX2NhY2hlX2tleT1NemM1T1RBMU1EWTVORFl3TXpVd05ESXpPUSUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFek5EZDRNVFkzT1M1elpISXVRek1pZlElM0QlM0QmX25jX29oYz1ENnJQckNZSDd2WVE3a052d0dfWnczLSZfbmNfb2M9QWRsNlA0MzJ3TDJXUzR0T09LZTR4bGx2cW5kRGJpR3BCVDFEYmdLZ2RkVVpfTW52UUlSLXItTTJvYWtLMU9rOWZIQSZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnNJci04cEdUZnpKNEdwYl96aHA1a09tdGFFNmJxWVRBS1p2RDVpeE12TDFRJm9lPTY5ODk5NTI4",
+              "isVideo": false,
+              "takenAtTimestamp": 1767089556,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Full Time"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS81ODk5MjUyMjVfMTg1MDQxNTE1OTQwNzgzNzNfNDgyNTk0NzQzNDE0MDE5MDAwX24uanBnP3N0cD1kc3QtanBnX2UzNV90dDYmX25jX2NhdD0xMDgmaWdfY2FjaGVfa2V5PU16YzVPVEF4T0RNeU9EazJNekEzTnpNMU5RJTNEJTNELjMtY2NiNy01JmNjYj03LTUmX25jX3NpZD01OGNkYWQmZWZnPWV5SjJaVzVqYjJSbFgzUmhaeUk2SW5od2FXUnpMakUwTkRCNE1UYzVNUzV6WkhJdVF6TWlmUSUzRCUzRCZfbmNfb2hjPXQwdkFOLVAzOXZJUTdrTnZ3RWY4MG81Jl9uY19vYz1BZG1ieHdCRDdtQXFlUFNiRV9iVUdZeEJkOWpwZ1Nad2ZHUlJSeW53YzdEemZoMW40U05UWWNwUDdBaUs4cU1JMWFJJl9uY19hZD16LW0mX25jX2NpZD0wJl9uY196dD0yMyZfbmNfaHQ9c2NvbnRlbnQtaWFkMy0xLmNkbmluc3RhZ3JhbS5jb20mX25jX2dpZD16RkwxeW1xaHJzRUpRU0FTMUZ4VkZRJm9oPTAwX0FmczhKdTRtNERsQVUxRWE4MjNZLXdURmJNSFVGdl8wNEVZdkNzNFItaDVHTWcmb2U9Njk4OUFDMjM=",
+              "isVideo": true,
+              "takenAtTimestamp": 1767085700,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "First half 📸❄️🚜"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MDczOTIwNDJfMTg1MDQxNDU3MTEwNzgzNzNfODg1NjgxNTg4ODc5ODQyMzA5NV9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTAzJmlnX2NhY2hlX2tleT1NemM1T0RrNU5EUTJOamt3TkRreE56STBOQSUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFME5EQjRNVFEwTUM1elpISXVRek1pZlElM0QlM0QmX25jX29oYz0zSlRENzhQbGVvd1E3a052d0VmUGg2QyZfbmNfb2M9QWRtOWd0YjhDWURVSnE0bVhQZXBOdnFWRHQ0WU9hS1N6T2NmVS12Y1h4VVFtR1VGckRtVE9uNmZmV01TMGxaM3RYVSZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnZmTkhZNXgwY0wxVkdadWdNdlB5cmxKTFlaWk5kWVdkVV9fRGNLMFV3UDBBJm9lPTY5ODlBRkI4",
+              "isVideo": false,
+              "takenAtTimestamp": 1767082853,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "TEAM ⚡"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MDcwMjU5NDJfMTg1MDQxNDE2ODgwNzgzNzNfMzM3MDA5OTg4ODY2MDQwNjQ4MV9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTEwJmlnX2NhY2hlX2tleT1NemM1T0RrM056UTBNekUyTkRRM05EazNOQSUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFME5EQjRNVGd3TVM1elpISXVRek1pZlElM0QlM0QmX25jX29oYz01WnUzYVJ6QmlzUVE3a052d0hXYUVjUSZfbmNfb2M9QWRraHMycUlWeVFMbmhhXzZZWWdyWEhybGpKUVkwbm9FTVRpejB3ZGR3VGpueDhvdWxib29mSGZGVzZJb2VhQ2E0USZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnUwNlBhdnhSTlJSbC02bHlsOUkwbExrZ2FKREZxNTRrNC01VVZNUkhOdEJnJm9lPTY5ODlCODJB",
+              "isVideo": true,
+              "takenAtTimestamp": 1767080827,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🏟️ Yadegar ⚡ Tractor 🔜 Malavan"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MDg0MTM5MDdfMTg1MDQxMzU0NDUwNzgzNzNfMjE1MDI0NDM2OTg2MjI2NF9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTA1JmlnX2NhY2hlX2tleT1NemM1T0RrME5qWXhOemd5TXpVeU1UVTFOdyUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFek5EZDRNVFkzT1M1elpISXVRek1pZlElM0QlM0QmX25jX29oYz12MnhUbnMwa19JRVE3a052d0Z0ODRXaiZfbmNfb2M9QWRsdENTLVRIN0h1WkdjR1ZZVWRZTUU3SGxkU1ZGSHVBZjVRR2NVcW9QMkNydkJmMEFBaGRNOWxGbkFtVXRuZjlFRSZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnNXUm5CUlNmWllkTTdBVkpzTW9wX014UEtZcEVKY19ueTQ0THV4TU1mSVNnJm9lPTY5ODk5QjY2",
+              "isVideo": false,
+              "takenAtTimestamp": 1767077149,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "𝗦𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗫𝗜"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MDcyMzA4MDRfMTg1MDQxMzQ4OTAwNzgzNzNfMzAyNTA0MDI4NTA3NTA5Njk3OV9uLmpwZz9zdHA9ZHN0LWpwZ19lMTVfdHQ2Jl9uY19jYXQ9MTExJmlnX2NhY2hlX2tleT1NemM1T0RrME1UQXpNVEF6TlRjd09UVTJOVEU0TlRBME1UTTBPRGczTURjNE16Y3ouMy1jY2I3LTUmY2NiPTctNSZfbmNfc2lkPTU4Y2RhZCZlZmc9ZXlKMlpXNWpiMlJsWDNSaFp5STZJbmh3YVdSekxqRTNOakI0TXpFek1DNXpaSEl1UXpNaWZRJTNEJTNEJl9uY19vaGM9SW9xY29FV3ZweWNRN2tOdndHX3ROX2ImX25jX29jPUFkbGpDYmw1Wkt5TnBOTUxMQlNYcEVuWkVfMmZSem1McjRtZ1pOV3J1RTFTR196Qnp6a2xGVkhaWFB6WGZDRVNRQzAmX25jX2FkPXotbSZfbmNfY2lkPTAmX25jX3p0PTIzJl9uY19odD1zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbSZfbmNfZ2lkPXpGTDF5bXFocnNFSlFTQVMxRnhWRlEmb2g9MDBfQWZzVGJ0QjU4aGJaX0xORkpfRS1acjFtNHFIZjAwRFRRYU1fMWI2RDZKMVNkQSZvZT02OTg5QTc4Qw==",
+              "isVideo": true,
+              "takenAtTimestamp": 1767076706,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "𝗦𝘁𝗲𝗽𝗽𝗲𝗱 𝗶𝗻𝘁𝗼 𝗵𝗼𝗺𝗲 🏟️"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS81ODk5MTA3MDFfMTg1MDQxMTUxODkwNzgzNzNfODQwMTc2OTgzMDQ3OTI5MDg3MV9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTAzJmlnX2NhY2hlX2tleT1NemM1T0Rnek56RTRNRFl6TURjMU5qUTNOZyUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFek5EZDRNVFkzT1M1elpISXVRek1pZlElM0QlM0QmX25jX29oYz1EYlBidlVFVS1IWVE3a052d0U1WmFVOCZfbmNfb2M9QWRrRW5mTml2ZUNscmRLalBRalMxZV9VRURnWEZXNndULUQ5YjBaTWw1N1FGM1FDMi1tVDloTEM3aWFKbDFwVmFtOCZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnRXM2tHc0ZzRUJkSUlVM3ltZWZfMkNULWNBcDMyeDFsdVJhaTE3QTVQam5RJm9lPTY5ODk4RDQ2",
+              "isVideo": false,
+              "takenAtTimestamp": 1767064103,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "GAMEDAY ⚽🕒❄️"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": null,
+              "shortcode": null,
+              "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS81ODk5MDI5NTFfMTg1MDM5OTM5NTMwNzgzNzNfODYxNjEzMjg3MzUzMjIzNTIyNV9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTAyJmlnX2NhY2hlX2tleT1NemM1T0RJMk16SXdNalV5TmpZMk16RXhOUSUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFME5EQjRNVGd3TUM1elpISXVRek1pZlElM0QlM0QmX25jX29oYz1iSHBjdV9KZWZmc1E3a052d0dxQklWRSZfbmNfb2M9QWRsdTVnZnV4OWZuUWVyZWVtRTB0bVYzUWJfMEFEcmRTTlhlN0tNTEN3X3k2WDBNQXM4TGcxeFpwdU5QblU0cWhzNCZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnU4XzJBVGQwLUg3MFhXd1BtbTBHSFRrMGlxWWVKazBsLVN1V1lSOW03U1h3Jm9lPTY5ODk4Nzgx",
+              "isVideo": true,
+              "takenAtTimestamp": 1766995682,
+              "edgeMediaToCaption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "WORK → REPEAT → IMPROVE 🔴⚫"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "shortcodeMedia": {
+      "id": null,
+      "shortcode": null,
+      "displayUrl": "https://cdn.storynavigation.com/?aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS44Mjc4Ny0xNS82MTA4Mjc3OThfMTg1MDU1Njk4MjMwNzgzNzNfODk4ODc5NjQ3MDgzNDkyMTYxOF9uLmpwZz9zdHA9ZHN0LWpwZ19lMzVfdHQ2Jl9uY19jYXQ9MTExJmlnX2NhY2hlX2tleT1Nemd3TlRVek5qSTFOelE0T1RZNU1qQXhOdyUzRCUzRC4zLWNjYjctNSZjY2I9Ny01Jl9uY19zaWQ9NThjZGFkJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluaHdhV1J6TGpFME5EQjRNVGM1TlM1elpISXVRek1pZlElM0QlM0QmX25jX29oYz01SkEtNHRIaXc3SVE3a052d0Y2b1F4aiZfbmNfb2M9QWRtTTNyNGpDYVg1cGdwRTlxa2ZPbzNFMWV0czlUbmhhelJZTlZBdEotTGh1OTZQNEpLZVd6TUk2dmx2WlhjLVBkQSZfbmNfYWQ9ei1tJl9uY19jaWQ9MCZfbmNfenQ9MjMmX25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19naWQ9ekZMMXltcWhyc0VKUVNBUzFGeFZGUSZvaD0wMF9BZnRRdHRUeDJFeTNMOFl1bGkwY1JWVzZVMkJ2Mk8tcVBuY3BOMkl0VGg4N093Jm9lPTY5ODk4QjBG",
+      "isVideo": true,
+      "takenAtTimestamp": 1767862697,
+      "edgeMediaToCaption": {
+        "edges": [
+          {
+            "node": {
+              "text": "🚜تمرینات تراکتور در مسیر آماده‌سازی برای مصاف با شمس آذر قزوین ادامه دارد"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
